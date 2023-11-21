@@ -1,0 +1,126 @@
+IP                   : ::1
+IP Type              : IPv6
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Faoug, Switzerland, Europe
+GeoLocation(lat, lon): 46.9095574, 7.0810285
+Currency             : Swiss Franc
+IP                   : ::1
+IP Type              : IPv6
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Faoug, Switzerland, Europe
+GeoLocation(lat, lon): 46.9095574, 7.0810285
+Currency             : Swiss Franc
+IP                   : ::1
+IP Type              : IPv6
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Faoug, Switzerland, Europe
+GeoLocation(lat, lon): 46.9095574, 7.0810285
+Currency             : Swiss Franc
+IP                   : ::1
+IP Type              : IPv6
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Faoug, Switzerland, Europe
+GeoLocation(lat, lon): 46.9095574, 7.0810285
+Currency             : Swiss Franc
+IP                   : ::1
+IP Type              : IPv6
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Faoug, Switzerland, Europe
+GeoLocation(lat, lon): 46.9095574, 7.0810285
+Currency             : Swiss Franc
+IP                   : ::1
+IP Type              : IPv6
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Faoug, Switzerland, Europe
+GeoLocation(lat, lon): 46.9095574, 7.0810285
+Currency             : Swiss Franc
+IP                   : 154.160.16.144
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Accra, Ghana, Africa
+GeoLocation(lat, lon): 5.6037168, -0.1869644
+Currency             : Ghanaian Cedi
+IP                   : 154.160.16.144
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Accra, Ghana, Africa
+GeoLocation(lat, lon): 5.6037168, -0.1869644
+Currency             : Ghanaian Cedi
+IP                   : 154.160.16.144
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Accra, Ghana, Africa
+GeoLocation(lat, lon): 5.6037168, -0.1869644
+Currency             : Ghanaian Cedi
+IP                   : 154.160.8.133
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Kumasi, Ghana, Africa
+GeoLocation(lat, lon): 6.7447067, -1.6044059
+Currency             : Ghanaian Cedi
+IP                   : 154.160.8.133
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Kumasi, Ghana, Africa
+GeoLocation(lat, lon): 6.7447067, -1.6044059
+Currency             : Ghanaian Cedi
+IP                   : 154.160.16.144
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Accra, Ghana, Africa
+GeoLocation(lat, lon): 5.6037168, -0.1869644
+Currency             : Ghanaian Cedi
+IP                   : 154.160.16.144
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Accra, Ghana, Africa
+GeoLocation(lat, lon): 5.6037168, -0.1869644
+Currency             : Ghanaian Cedi
+IP                   : 154.160.16.144
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Accra, Ghana, Africa
+GeoLocation(lat, lon): 5.6037168, -0.1869644
+Currency             : Ghanaian Cedi

