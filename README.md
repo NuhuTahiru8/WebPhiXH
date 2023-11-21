@@ -10,7 +10,7 @@ In the digital world, many of my friends were facing hacking issues. Being tech-
 ## Description:
 **WebPhiXH** is a phishing tool that uses **Browser** as man-in-the-middle. This **Browser** get the input of the victim and sends to the main server for authentication.**WebPhiXH** is an open-source penetration testing framework designed for social engineering. **WebPhiXh ** has a number of testing site that allow you to make a believable attack quickly.
 
-**Disclaimer:** This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period.
+**Disclaimer:** This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, Use at Your Own Risk.
 
 ## Compatible OS
 
