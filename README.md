@@ -30,27 +30,23 @@ Windows(cmd)  | Support
 ```bash
 pip install selenium
 ```
-##### 4. Install undetected-chromedriver
-```bash
-pip install undetected-chromedriver
-```
-##### 5. Install requests
+##### 4. Install requests
 ```bash
 pip install requests
 ```
-##### 6. Install undetected-chromedriver
+##### 5. Install undetected-chromedriver
 ```bash
 pip install undetected-chromedriver
 ```
-##### 7. Clone this repo
+##### 6. Clone this repo
 ```bash
 git clone https://github.com/NuhuTahiru8/WebPhiXH.git
 ```
-##### 8. Enter the directory
+##### 7. Enter the directory
 ```bash
 cd WebPhiXH
 ```
-##### 9. Run the tool
+##### 8. Run the tool
 ```bash
 python WebPhiXH.py
 ```
