@@ -1,9 +1,11 @@
 <h1 align="center">WebPhiXH</h1>
+<h1 align="center">Test it in your own lab</h1>
 
 # Motive:
-In the digital world, many of my friends were facing hacking issues. Being tech-savvy, I always helped my friends recover their accounts. To educate and impress them, I developed a powerful tool to combat phishing. I welcome anyone who considers phishing a critical issue to join me in promoting awareness and defending against it.
+**Phishing attacks** are still the most used attack vector for initial access and credential stealing from my **perspective**. According to **Forbes** -  Phishing statistics shows that in 2022, there were **300,497** phishing victims with a total loss of **$52,089,159** in the **U.S.** alone. **MY GOAL** is to create an **EMPLOYEE TRAINING COURSE** with this Tool.This type of training is what every employee should receive during their employment (with periodic refresher training). Some examples of this type of training include phishing training, situational awareness training, privacy awareness training, insider threat training, secure internet browsing, and more.
+These training modules are designed to help employees be more cyber-aware during the course of their day-to-day job and make it less likely that a cyber criminal is able to exploit them as part of a social-engineering attack. **I welcome anyone who considers phishing a critical issue to join me in promoting awareness and defending against it**.
 <p align="center">
-  <img alt="Evilginx2 Logo" src="files/img/WebPhixh.png" width="800" height="200" />
+  <img alt="Logo" src="files/img/WebPhixh.png" width="800" height="200" />
   </p>
 </p>
 
@@ -50,5 +52,11 @@ cd WebPhiXH
 ```bash
 python WebPhiXH.py
 ```
+<div align="center">
 
+Copyright © 2023 - **Tahiru0nSecurity**\
+By Nuhu Tahiru\
+Made with 🧠, ⌨ & 🖱 
+
+</div>
 
